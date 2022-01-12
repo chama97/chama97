@@ -1,6 +1,6 @@
 ## Hi I'm Chamath Manchanayake <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Chamath a Full Stack Web Developer and Software developer. I Spend most of time coding outstanding projects or recording tutorials.
+I'm Chamath a Software Developer |  Web Developer and Network technician. I Spend most of time coding outstanding projects.
 
 :mailbox: Reach me out!
 
@@ -13,18 +13,18 @@ I'm Chamath a Full Stack Web Developer and Software developer. I Spend most of t
 - 🤔 I’m looking for help with Outstanding Project ideas.
 - 📫 How to reach me: chamamanchnayake5@gmail.com.
 - 😄 Pronouns: Chamath , Chama.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I play games , Play badminton and Watch movies.
 
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![React Badge](https://img.shields.io/badge/Java-JavaFX-green?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-HTML-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-CSS-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- 🌏 https://chamathmanchanayake97.000webhostapp.com/
+- :paperclip: [My Resume/CV](https://chamathmanchanayake97.000webhostapp.com/)
+- 📧 : [My E-mail](chamamanchnayake5@gmail.com)
 
 
 #### Profile Visits 
