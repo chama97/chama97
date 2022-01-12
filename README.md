@@ -1,4 +1,4 @@
-### Hi there, I'm Chamath 👋
+## Hi there, I'm Chamath Manchanayake 👋
 
 Here are some ideas to get you started:
 
