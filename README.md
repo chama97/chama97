@@ -1,5 +1,9 @@
 ## Hi there, I'm Chamath Manchanayake 👋
 
+📫 Reach me out!
+
+Twitter Badge Mail Badge Linkedin Badge Mail Badge Mail Badge
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
