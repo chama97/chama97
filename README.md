@@ -31,13 +31,13 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chama97.chama97)
 
-<details>
+
 
 #### Github Stats
 
 ![chama97's github stats](https://github-readme-stats.vercel.app/api?username=chama97&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
+
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
