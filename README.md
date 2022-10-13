@@ -33,6 +33,20 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 [![ExpressJs Badge](https://img.shields.io/badge/-ExpressJs-303030?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)
 
 
+[linkedin]: https://www.linkedin.com/in/chamath-manchanayake-084565225/
+
+[Facebook]: https://www.facebook.com/profile.php?id=100011795520810
+
+[WhatsApp]: https://wa.me/0762988833
+
+[Twitter]: https://twitter.com/Chama9709
+
+[Youtube]: https://www.youtube.com/channel/UCi4KSK1eQrWLihAE74F_3fQ/featured
+
+[Instragram]: https://www.instagram.com/chamath_manchanayake/
+
+
+
 #### Bizness
 - :paperclip: [My Resume/CV](https://chamathmanchanayake97.000webhostapp.com/)
 - 📧 : [My E-mail](chamamanchnayake5@gmail.com)
