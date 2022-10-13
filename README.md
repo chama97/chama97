@@ -84,10 +84,10 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 <h4 align="center">
 Profile Visits 🧐
 </h4>
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=chama97.chama97)
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chama97.chama97)
+
   
 
 <!-- #### Github Stats
