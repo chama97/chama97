@@ -66,7 +66,7 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 
 
 
-#### Bizness
+#### Business
 - :paperclip: [My Resume/CV](https://chamathmanchanayake97.000webhostapp.com/)
 
 
