@@ -25,8 +25,8 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 [![GraphQL Badge](https://img.shields.io/badge/-CSS-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 [![bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=563d7c)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=React&logoColor=61DBFB)](#)
-[![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) </br>
-
+</br>
+[![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) 
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](#)
 [![Sass Badge](https://img.shields.io/badge/-Sass-CD6799?style=for-the-badge&labelColor=black&logo=Sass&logoColor=CD6799)](#)
 [![Spring Badge](https://img.shields.io/badge/-Spring-5e8d5a?style=for-the-badge&labelColor=black&logo=spring&logoColor=5e8d5a)](#)
