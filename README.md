@@ -88,6 +88,12 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chama97.chama97)
 
+<h3 align="center">
+Github Stats 🧐
+</h3>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
+
 
 
 #### Github Stats
