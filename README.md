@@ -100,6 +100,8 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 <div align="center">
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chama97&show_icons=true&theme=gotham" alt="chama97|Stats"/>
+  
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mindula-Dilthushan&show_icons=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
 
 </div>
 
