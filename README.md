@@ -16,11 +16,11 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 
 <!-- TODO: Add last video link -->
 <div> 
-- 🔭 I’m currently learning at @IJSE
-- :computer: Most used line of code `git commit -m "Done"`
-- 🤔 I’m looking for help with Outstanding Project ideas.
-- 📫 How to reach me: chamamanchnayake5@gmail.com.
-- 😄 Pronouns: Chamath , Chama.
+- 🔭 I’m currently learning at @IJSE </br>
+- :computer: Most used line of code `git commit -m "Done"` </br>
+- 🤔 I’m looking for help with Outstanding Project ideas. </br>
+- 📫 How to reach me: chamamanchnayake5@gmail.com. </br>
+- 😄 Pronouns: Chamath , Chama. </br>
 - ⚡ Fun fact: Sport, Travel.
   </div> 
   </div> 
