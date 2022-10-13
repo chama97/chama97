@@ -39,6 +39,7 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
   Where to find me 🤙
 </b>
 </p>
+</br>
 
 <div align="center">
 
@@ -67,7 +68,6 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://chamathmanchanayake97.000webhostapp.com/)
-- 📧 : [My E-mail](chamamanchnayake5@gmail.com)
 
 
 #### Profile Visits 
