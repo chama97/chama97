@@ -90,10 +90,10 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 
 
 
-#### Github Stats
+<!-- #### Github Stats
 
 ![chama97's github stats](https://github-readme-stats.vercel.app/api?username=chama97&count_private=true&theme=tokyonight&hide=contribs,prs)
-
+ -->
 
 
 <div align="center">
@@ -103,8 +103,8 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
   
 </div>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=github_dark"/> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=chama97&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chama97&theme=github_dark"/> </p>
 
 
 
