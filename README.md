@@ -89,7 +89,7 @@ Profile Visits 🧐
 
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chama97.chama97)
+
   
 
 <!-- #### Github Stats
