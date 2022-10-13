@@ -15,7 +15,7 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 [![Twitter Badge](https://img.shields.io/badge/-@Chama9709-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Chama9709)](https://twitter.com/Chama9709) [![Mail Badge](https://img.shields.io/badge/-CM-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi4KSK1eQrWLihAE74F_3fQ/featured) [![Linkedin Badge](https://img.shields.io/badge/-Chamath-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamath-manchanayake-084565225/) [![Mail Badge](https://img.shields.io/badge/-@chamath-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/chamath-manchanayake) [![Mail Badge](https://img.shields.io/badge/-chamamanchanayake5-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chamamanchanayake5@gmail.com)
 
 <!-- TODO: Add last video link -->
-<div align="left" width=200> 
+<div align="center-left"> 
 - 🔭 I’m currently learning at @IJSE </br>
 - :computer: Most used line of code `git commit -m "Done"` </br>
 - 🤔 I’m looking for help with Outstanding Project ideas. </br>
