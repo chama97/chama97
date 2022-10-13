@@ -32,6 +32,16 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 [![Spring Badge](https://img.shields.io/badge/-Spring-5e8d5a?style=for-the-badge&labelColor=black&logo=spring&logoColor=5e8d5a)](#)
 [![ExpressJs Badge](https://img.shields.io/badge/-ExpressJs-303030?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)
 
+<div align="center">
+
+[<img height="29" src = "https://img.shields.io/badge/linkedin-000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="29" src = "https://img.shields.io/badge/Youtube-000000.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
+[<img height="29" src = "https://img.shields.io/badge/Facebook-000000.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
+[<img height="29" src = "https://img.shields.io/badge/Whatsapp-000000.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white">][WhatsApp]
+[<img height="29" src = "https://img.shields.io/badge/twitter-000000.svg?&style=for-the-badge&logo=twitter&logoColor=white">][Twitter]
+[<img height="29" src = "https://img.shields.io/badge/instragram-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instragram]
+
+</div>
 
 [linkedin]: https://www.linkedin.com/in/chamath-manchanayake-084565225/
 
