@@ -48,7 +48,7 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
   Where to find me 🤙
 </b>
 </p>
-</br>
+
 
 <div align="center">
 
