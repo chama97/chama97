@@ -80,13 +80,12 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 
 
 
-#### Business
-- :paperclip: [My Resume/CV](https://chamathmanchanayake97.000webhostapp.com/)
-
-
+<div align="center">
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=chama97.chama97)
+  
+</div>
 
 
 
