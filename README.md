@@ -94,6 +94,16 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 
 ![chama97's github stats](https://github-readme-stats.vercel.app/api?username=chama97&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+<details>
+<summary> GitHub Commits
+</summary>
+<div align="center">
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chama97&show_icons=true&theme=gotham" alt="chama97|Stats"/>
+
+</div>
+</details>
+
 
 
 
