@@ -26,7 +26,7 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 [![bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=563d7c)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=React&logoColor=61DBFB)](#)</br>
 
-[![React Native Badge](https://img.shields.io/badge/-React-Native-61DBFB?style=for-the-badge&labelColor=black&logo=React&logoColor=61DBFB)](#)
+[![React Native Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=React&logoColor=61DBFB)](#)
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](#)
 [![Sass Badge](https://img.shields.io/badge/-Sass-CD6799?style=for-the-badge&labelColor=black&logo=Sass&logoColor=CD6799)](#)
 [![Spring Badge](https://img.shields.io/badge/-Spring-5e8d5a?style=for-the-badge&labelColor=black&logo=spring&logoColor=5e8d5a)](#)
