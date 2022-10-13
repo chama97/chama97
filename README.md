@@ -96,7 +96,10 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 
 
 <div align="center">
-  #### Github Stats
+ 
+<h3 align="center">
+Github Stats 🧐
+</h3>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chama97&show_icons=true&theme=gotham" alt="chama97|Stats"/>
   
