@@ -1,4 +1,4 @@
-<div> 
+<div align="center"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=35&duration=3000&color=80d4ff&background=EB00FF00&center=true&vCenter=true&width=400&lines=Hello+There++I'm;Software+Developer;Designer;Network+Technician)](https://git.io/typing-svg)
   
@@ -21,6 +21,8 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 - 😄 Pronouns: Chamath , Chama.
 - ⚡ Fun fact: Sport, Travel.
 
+<div align="center"> 
+
 #### Top Technologies
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -39,6 +41,7 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 [![ExpressJs Badge](https://img.shields.io/badge/-ExpressJs-303030?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)
 
 </br>
+</div> 
 
 <p align="center"> 
 <b>
