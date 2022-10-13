@@ -97,11 +97,14 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 
 
 <div align="center">
-  <p> GitHub Commits </p>
+  #### Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chama97&show_icons=true&theme=gotham" alt="chama97|Stats"/>
   
 </div>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Mindula-Dilthushan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mindula-Dilthushan&theme=github_dark"/> </p>
 
 
 
