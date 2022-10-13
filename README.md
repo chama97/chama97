@@ -1,3 +1,9 @@
+<div align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=13F700&background=EB00FF00&center=true&vCenter=true&width=250&lines=Software+Designer;Developer;UI%2FUX++Designer;Gamer;Photographer;Youtuber)](https://git.io/typing-svg)
+  
+</div>
+
 ## Hi I'm Chamath Manchanayake <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Chamath a Software Developer |  Web Developer and Network technician. I Spend most of time coding outstanding projects.
