@@ -26,6 +26,7 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
   </div> 
 
 <div align="center"> 
+  </br>
 
 #### Top Technologies
 <!-- TODO: Make technologies links takes you to repositories -->
