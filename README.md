@@ -68,7 +68,7 @@ I'm Chamath a Software Developer |  Web Developer and Network technician. I Spen
 
 [linkedin]: https://www.linkedin.com/in/chamath-manchanayake-084565225/
 
-[Facebook]: https://www.facebook.com/profile.php?id=100011795520810
+[Facebook]: https://www.facebook.com/chamath.manchanayake.7
 
 [WhatsApp]: https://wa.me/0762988833
 
@@ -113,8 +113,3 @@ Github Stats 🧐
 
 
 
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
